@@ -2,6 +2,6 @@
 
 your hosting link e.g. http://a4-charlieroberts.glitch.me
 
-Include a very brief summary of your project here and what you changed / added to assignment #3. Briefly (3–4 sentences) answer the following question: did the new technology improve or hinder the development experience?
+I reimplemented the frontend for project 2 using React components. 
 
-Unlike previous assignments, this assignment will be solely graded on whether or not you successfully complete it. Partial credit will be generously given.
+Once I understood the basic principles behind the components, adding them made the code far simpler and easy to read. Being able to manage html and javascript in the same file is really helpful when the javascript controls a lot of dynamic elements that appear in the html. Overall, using React made the development experience far simpler.
